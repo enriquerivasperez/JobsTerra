@@ -32,9 +32,9 @@ Próximos hitos:
 
 | Pantalla de bienvenida | Inicio de sesión | Registro |
 |---|---|---|
-| ![pantalla1](ruta_de_imagen) | ![pantalla2](ruta_de_imagen) | ![pantalla3](ruta_de_imagen) |
+| ![pantalla1](https://github.com/enriquerivasperez/JobsTerra/blob/main/foto1.jpg?raw=true) | ![pantalla2](https://github.com/enriquerivasperez/JobsTerra/blob/main/foto2.jpg?raw=true) | ![pantalla3](https://github.com/enriquerivasperez/JobsTerra/blob/main/foto3.jpg?raw=true) |
 
-> *(Puedes subir las capturas al repo y poner la ruta, o subirlas a GitHub Issues y enlazarlas — si quieres te explico cómo paso a paso)*
+
 
 ---
 
